@@ -1,4 +1,11 @@
 first test
 #NEPAL
-##Country
 Nepal is a *landlocked* country.
+
+##Unity
+Nepalese people are **multilingual** but still they live peacefully.
+
+##Best places
+-Kathmandu
+-Pokhara
+-Chitwan
